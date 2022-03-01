@@ -1,0 +1,14 @@
+name: nephele_coverage
+title: nephele_coverage
+username:
+account: bkraj
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5751828
+bundleId: 5629522
+url: https://bkraj.shinyapps.io/Nephele_Coverage/
+when: 1646154396.90047
+lastSyncTime: 1646154396.90047
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: app.R.bak|README.md|nephele_output_examples

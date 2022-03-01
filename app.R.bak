@@ -104,7 +104,7 @@ server <- function(input, output, session) {
              layout(yaxis= list(title = FALSE),
                     yaxis = list(tickfont = list(size = 3))) %>%
              layout(xaxis= list(title = "Primer"))) %>%
-        subplot(nrows = round(length(unique(data()$sample_id))/2.5)+1, shareX = TRUE, shareY = TRUE) }
+        subplot(nrows = round(length(unique(data()$sample_id))/2.5), shareX = TRUE, shareY = TRUE) }
     )
 }
 
